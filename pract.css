@@ -1,0 +1,14 @@
+button{
+    color: aqua;
+    background-color: black;
+    padding:1rem;
+    border:2rem;
+    box-sizing:1rem;
+    box-shadow: 1rem 1rem 1rem black;
+}
+p{
+    color: red;
+}
+h1,h2{
+    color: aqua;
+}
